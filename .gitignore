@@ -1,0 +1,14 @@
+/node_modules
+/lte
+/.next
+.next/cache
+.vercel
+*.orig
+out/
+out_build/
+.htaccess
+/dist
+.env
+
+package-lock.json
+yarn.lock
